@@ -11,7 +11,8 @@ PHP =>7.0
 ## 使用方法
 
 ```php
-use UnionJd\Client
+use UnionJd\Client;
+
 $jd = new Client([
     'app_key' => 'xxx',
     'secret_key' => 'xxx'
