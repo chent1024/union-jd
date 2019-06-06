@@ -1,0 +1,22 @@
+{
+  "name": "chent/union-jd",
+  "description": "Jd union sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "chent",
+      "email": "emailctao@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "php-curl-class/php-curl-class": "^8.6"
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "psr-4": {
+      "UnionJd\\": "src"
+    }
+  }
+}
