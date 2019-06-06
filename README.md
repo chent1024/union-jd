@@ -1,8 +1,11 @@
 Union jd
 =======
 京东联盟sdk
+
 改写自 https://github.com/yumufeng/jd-union-sdk
+
 PHP =>7.0
+
 ***wiki***: https://union.jd.com/#/openplatform/api
 
 ## 使用方法
